@@ -93,4 +93,3 @@ koperasi/
 Rumus angsuran ada di fungsi `jadwal_angsuran()` dan denda di `denda_angsuran()` pada `includes/bootstrap.php`.
 
 ---
-Source code ini dibagikan gratis oleh **Papicode** — https://papicode.id
